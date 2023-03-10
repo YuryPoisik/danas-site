@@ -15,7 +15,8 @@ body {
     margin: 0;
     /* font-family: "futura"; */
     /* font-family: 'Smokum', cursive; */
-    font-family: "anale", mono;
+
+    font-family: 'Andale Mono';
     /*recommend 1920 / 1080 max based on usage stats, use 100% to that point*/
     width: 100%;
     max-width: 1080px;
@@ -27,7 +28,12 @@ body {
     box-shadow: 0px 0px 96px 0px rgba(0, 0, 0, 0.75); */
 }
 
-
+/* @font-face {
+    font-family: 'Andale Mono Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Andale Mono Regular'), url('ANDALEMO.woff') format('woff');
+} */
 
 .navbar-toggler {
     border: 0px;
